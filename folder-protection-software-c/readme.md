@@ -1,0 +1,1 @@
+This is a Folder Protection Software in C which is compatible with Win98, WinNT, Win2000 Server, also works on Windows 10, I haven't tried launching it on Windows 11. Will not work on Win XP. By this software convert your folder to Control panel using protection option. And restore it by using unprotected option.
